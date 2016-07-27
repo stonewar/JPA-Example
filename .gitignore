@@ -1,3 +1,6 @@
-#Ignore
+#IntelliJ
 .idea/workspace.xml
 JPA-Example.iml
+
+#Mac
+.DS_Store
